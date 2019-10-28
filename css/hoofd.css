@@ -1,0 +1,41 @@
+ h1, ul, #al1{
+    padding-bottom: 40px;
+}
+html {
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-size: 32px;
+    line-height: 32px;
+}
+h2 {
+    font-size: 36px;
+    line-height: 36px;
+}
+ul {
+    line-height: 30px;
+}
+ .stappen {
+     line-height: 40px;
+ }
+#all {
+    font-size: 20px;
+    line-height: 26px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+#al1 {
+font-size: 24px;
+ line-height: 32px;
+ }
+ .tip {
+     padding: 25px;
+     width: 900px;
+     height: 50px;
+    background-color: #def6ed;
+}
+ a {
+     font-size: 20px;
+ }
